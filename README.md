@@ -9,9 +9,7 @@ A comprehensive Python-based market intelligence and price forecasting system de
 The system performs comparative analysis across two distinct market environments:
 
 - **Kano Central Market** – A representative local market capturing regional trade dynamics, supply chain constraints, and domestic pricing patterns
-- **Makurdi<img width="1122" height="670" alt="N2" src="https://github.com/user-attachments/assets/44c32fd7-b2d1-4f85-8e28-1912c03d2e18" />
-<img width="1156" height="676" alt="N5" src="https://github.com/user-attachments/assets/921af8c3-b706-4854-abb7-29605aefd131" />
- International Market** – A global trading hub reflecting international price trends, cross-border demand, and foreign exchange influences
+- **Makurdi International Market** – A global trading hub reflecting international price trends, cross-border demand, and foreign exchange influences
 
 This dual-market approach enables traders to identify arbitrage opportunities, understand price differentials, and make informed cross-market decisions.
 
@@ -133,8 +131,7 @@ The system tracks multiple commodities to enable comprehensive market intelligen
 - Flags market volatility and price instability
 - Identifies supply chain vulnerabilities
 - Supports hedging and mitigation strategies
-<img width="1151" height="613" alt="N4" src="https://github.com/user-attachments/assets/1ed87464-dca0-41b4-a269-070bd744de3f" />
-<img width="1131" height="602" alt="N3" src="https://github.com/user-attachments/assets/232cdd88-90a7-453c-afd3-1e3b0ba31795" />
+
 
 ---
 
@@ -156,3 +153,7 @@ The system directly addresses six critical business questions:
 ## Sample Output Structure
 
 ### Price Analysis Report
+<img width="1122" height="670" alt="N2" src="https://github.com/user-attachments/assets/44c32fd7-b2d1-4f85-8e28-1912c03d2e18" />
+<img width="1156" height="676" alt="N5" src="https://github.com/user-attachments/assets/921af8c3-b706-4854-abb7-29605aefd131" />
+<img width="1151" height="613" alt="N4" src="https://github.com/user-attachments/assets/1ed87464-dca0-41b4-a269-070bd744de3f" />
+<img width="1131" height="602" alt="N3" src="https://github.com/user-attachments/assets/232cdd88-90a7-453c-afd3-1e3b0ba31795" />
