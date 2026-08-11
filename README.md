@@ -157,3 +157,33 @@ The system directly addresses six critical business questions:
 <img width="1156" height="676" alt="N5" src="https://github.com/user-attachments/assets/921af8c3-b706-4854-abb7-29605aefd131" />
 <img width="1151" height="613" alt="N4" src="https://github.com/user-attachments/assets/1ed87464-dca0-41b4-a269-070bd744de3f" />
 <img width="1131" height="602" alt="N3" src="https://github.com/user-attachments/assets/232cdd88-90a7-453c-afd3-1e3b0ba31795" />
+
+## Summary
+
+The Market Price Forecasting System successfully demonstrates how foundational Python programming concepts can be applied to solve real-world business intelligence challenges. By analyzing commodity price data across Kano Central Market and Marco Di International Market, the system provides actionable insights that support strategic trading decisions, inventory management, and market analysis.
+
+Through systematic data processing and logical analysis, the system answers critical business questions including price trend identification, market comparison, supply assessment, and trader recommendations. The dual-market approach enables users to identify arbitrage opportunities, understand price differentials, and make informed cross-market decisions.
+
+This project validates that even with fundamental programming skills, meaningful business intelligence tools can be developed to support decision-making in commodity trading and market analysis.
+
+---
+
+## Key Achievements
+
+- Successfully analyzed price trends across local and international markets
+- Identified commodities with the highest growth potential
+- Evaluated supply sufficiency and market momentum
+- Generated data-driven trading recommendations
+- Applied Python fundamentals to solve practical business problems
+
+---
+
+## Conclusion
+
+This project serves as a foundation for more advanced market intelligence systems. The analytical framework developed here can be extended with additional data sources, machine learning models, and visualization capabilities to create a comprehensive market forecasting solution.
+
+The system demonstrates that data-driven decision-making is accessible and achievable with the right analytical approach and programming fundamentals.
+
+---
+
+**Built with Python** – Empowering smarter trading decisions through data analysis.
