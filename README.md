@@ -160,7 +160,7 @@ The system directly addresses six critical business questions:
 
 ## Summary
 
-The Market Price Forecasting System successfully demonstrates how foundational Python programming concepts can be applied to solve real-world business intelligence challenges. By analyzing commodity price data across Kano Central Market and Marco Di International Market, the system provides actionable insights that support strategic trading decisions, inventory management, and market analysis.
+The Market Price Forecasting System successfully demonstrates how foundational Python programming concepts can be applied to solve real-world business intelligence challenges. By analyzing commodity price data across Kano Central Market and Makurdi International Market, the system provides actionable insights that support strategic trading decisions, inventory management, and market analysis.
 
 Through systematic data processing and logical analysis, the system answers critical business questions including price trend identification, market comparison, supply assessment, and trader recommendations. The dual-market approach enables users to identify arbitrage opportunities, understand price differentials, and make informed cross-market decisions.
 
